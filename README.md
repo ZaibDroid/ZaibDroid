@@ -43,7 +43,7 @@ Email Me 👉 ✉️ **Zaibson760@gmail.com** For Collaboration/Project or Anyth
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaibDroid&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### Contribution Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=Aurang-zaib-Rehman&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=ZaibDroid&theme=tokyo-night)
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
