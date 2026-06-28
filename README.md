@@ -1,6 +1,5 @@
 # Hi 👋, I'm Aurang Zaib Rehman
-**A passionate Flutter Developer**
-**Portfolio:** 👉 **[Visit My Portfolio](https://zaib1portfolio.netlify.app/)**  
+**A passionate Flutter Developer** 
 
 
 Email Me 👉 ✉️ **zaibson760@gmail.com** For Collaboration/Project or Anything Else. 😊
