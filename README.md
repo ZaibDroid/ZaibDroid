@@ -2,7 +2,7 @@
 **A passionate Flutter Developer** 
 
 
-Email Me 👉 ✉️ **zaibson760@gmail.com** For Collaboration/Project or Anything Else. 😊
+Email Me 👉 ✉️ **aurangzaibrehman01@gmail.com** For Collaboration/Project or Anything Else. 😊
 
 - **Ask me about:** Collaboration, Tech Support
 - **Fun fact:** I Love Tech and Tech Love Me
